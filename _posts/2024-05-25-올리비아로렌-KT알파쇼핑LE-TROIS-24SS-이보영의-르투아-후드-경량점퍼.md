@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "블라우스 추천 TOP10 - [50대][여성] 부루앤쥬디 이중 카라 진주 블라우스 OQEBL502B"
+title: "올리비아로렌 추천 TOP10 - [50대][여성] [KT알파쇼핑][LE TROIS] 24SS 이보영의 르투아 후드 경량점퍼"
 author: smartmall89
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**블라우스**](https://link.coupang.com/a/bniCbs)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**올리비아로렌**](https://link.coupang.com/a/bniCbs)들을 추천해드리고 있습니다.
 
 <style>
     /* 기본 스타일 */
@@ -60,27 +60,27 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8024997434&traceid=V0-153&itemId=22427280311&vendorItemId=89471963153" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8003138950&traceid=V0-153&itemId=22296349478&vendorItemId=89341847429" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/04/11/18/5/7f9512d3-3f09-420a-9044-d193fc711d15.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/ad9d/a4e6c491e2cba45592c7bf4bf489012ab531af59289b1b29b1f6521e3970.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1. 부루앤쥬디 이중 카라 진주 블라우스 OQEBL502B
+                        1. [KT알파쇼핑][LE TROIS] 24SS 이보영의 르투아 후드 경량점퍼
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">69%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">19,420원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">33,920원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 2개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8024997434&traceid=V0-153&itemId=22427280311&vendorItemId=89471963153" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8003138950&traceid=V0-153&itemId=22296349478&vendorItemId=89341847429" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -89,106 +89,19 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8099307627&traceid=V0-153&itemId=22902531294&vendorItemId=90084192377" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8054750131&traceid=V0-153&itemId=22602976747&vendorItemId=89644608573" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c6ed/1e7bcec5d16774ef71a3527218458fce9cf812bc811da7f32944027364ee.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b910/f3c73a1fd4079b91e5b3dace3104728d5114f63b84bdb945a9ad0c11bd51.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2. POMTOR 여성 오피스룩 라운드 반팔 셔츠 링클프리 블라우스
+                        2. 올리비아로렌 내추럴한 카라 5부 소매 링클 볼륨 블라우스 nc청주점 vvcnl3m4281
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">52%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,850원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8099307627&traceid=V0-153&itemId=22902531294&vendorItemId=90084192377" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8054835955&traceid=V0-153&itemId=22603368536&vendorItemId=89645184247" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/623b/9b5c88b476178bd86856fd12a5ad6fb4c60bccc3e82fcd71ab3e02459009.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3. ANYOU 여성 여름 링클 반팔 블라우스 러블리 어깨퍼프 셔츠
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">23,800원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 5.0
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 3개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8054835955&traceid=V0-153&itemId=22603368536&vendorItemId=89645184247" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8096934499&traceid=V0-153&itemId=22893195594&vendorItemId=90084721656" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/30d4/38a6411ea34886d85c4032ebd6e4bf87d0715969d45d54d7c7e87c826726.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4. POMTOR 여성 여름 반팔 셔츠 라운드 플라워 블라우스
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,750원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8096934499&traceid=V0-153&itemId=22893195594&vendorItemId=90084721656" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8057519162&traceid=V0-153&itemId=22620516010&vendorItemId=89662065036" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/56cf/10ba371508c17296acd3ea27d61602778803bf305381b20938bc2aeb1a86.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5. 네츄럴 원포켓 루즈핏 블라우스 셔츠
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">69%</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">15,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">49,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
@@ -196,7 +109,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 1개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8057519162&traceid=V0-153&itemId=22620516010&vendorItemId=89662065036" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8054750131&traceid=V0-153&itemId=22602976747&vendorItemId=89644608573" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -205,77 +118,19 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7905276409&traceid=V0-153&itemId=21676763826&vendorItemId=88727168017" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8040311638&traceid=V0-153&itemId=22509181994&vendorItemId=89551461608" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/qcvvilgc/91767037f33c49cfac10b04639c68a67.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5039/6d71fabde6d164afdf0ec821fe113bb6c61203b18cfa35dad1faeaeb1475.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6. 젬블링 여성용 히든 버튼 5부 오픈 브이넥 반팔 블라우스
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">47%</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">24,900원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 5.0
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 23개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7905276409&traceid=V0-153&itemId=21676763826&vendorItemId=88727168017" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8088098089&traceid=V0-153&itemId=22832155489&vendorItemId=89866902918" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5873/705c4e7dacc2d7e4a10b094f0acc3ccc2b038b73aa216372eb600a22bc36.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7. POMTOR 여성용 루즈핏 나시 블라우스 민소매 반팔티 셔츠
+                        3. 올리비아로렌 HC04 아우터형 블라우스 VOCNL3M4241
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,990원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 5.0
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 20개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8088098089&traceid=V0-153&itemId=22832155489&vendorItemId=89866902918" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8065799822&traceid=V0-153&itemId=22683475256&vendorItemId=89719446802" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c14e/42eb468b31f680f480ac318c9f19cdb5d0615321a58a924c4b07bf979d7e.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8. ANYOU 여성 블라우스 잔꽃무늬 퍼프소매 블라우스
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">54,990원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 
@@ -283,7 +138,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 0개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8065799822&traceid=V0-153&itemId=22683475256&vendorItemId=89719446802" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8040311638&traceid=V0-153&itemId=22509181994&vendorItemId=89551461608" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -292,27 +147,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7674632520&traceid=V0-153&itemId=20482757414&vendorItemId=87606919919" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8054678518&traceid=V0-153&itemId=22602694653&vendorItemId=89644328773" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a194/7ee9897437fcb1a19836c6bf3dfbd9dfd88511a1ca44e6a49524d1f92246.png" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c53a/d2d7e986b3518faab0e0e37b6fa3f1d73400a3644f259d056003372bfd75.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9. 플루터 여성 구김없는 셔츠 링클프리 14가지 컬러
+                        4. 올리비아로렌 내추럴한 카라 볼륨 반팔 소매 링클 블라우스 nc청주점 vocnl3m3451
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">23,320원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">41,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1354개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7674632520&traceid=V0-153&itemId=20482757414&vendorItemId=87606919919" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8054678518&traceid=V0-153&itemId=22602694653&vendorItemId=89644328773" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -321,27 +176,172 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7972162280&traceid=V0-153&itemId=22086032043&vendorItemId=89133229964" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7181427277&traceid=V0-153&itemId=18112776462&vendorItemId=86468777057" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a655/52e8cbb7c9181200d70c4578bb2d9205119a07da3dbabf6b01701c6722a5.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b1e2/cf80eeec204a04912070fdc9b4734431e128dc57d044d64eb41f18557c87.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10. 여자 여름 루즈핏 편안한 블라우스 Women's Blouse
+                        5. 오마샤리프 여성 국산 풍기 인견 100% 반팔/나시 여름원피스 인견원피스 중년원피스 잠옷원피스
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">69%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">19,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">25,790원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 8개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 37개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7972162280&traceid=V0-153&itemId=22086032043&vendorItemId=89133229964" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7181427277&traceid=V0-153&itemId=18112776462&vendorItemId=86468777057" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8010724628&traceid=V0-153&itemId=22316356309&vendorItemId=87854532072" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/4d2e/41bdd56b122ad0632427cfeb7f904c34908bb446c8b77dbacbf82008bde2.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        6. 몽벨 여성 테크L 윈드 자켓_MW3GSWJW20
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">47%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">58,740원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 7개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8010724628&traceid=V0-153&itemId=22316356309&vendorItemId=87854532072" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7276995928&traceid=V0-153&itemId=22465491639&vendorItemId=89508563974" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/84a3/b927af48119536cb3195b1307e5f361229a3c0307054a7e56e22325977ee.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        7. [올리비아로렌] 카라넥 A라인 원피스_VOCOAXM5281
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">21,270원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7276995928&traceid=V0-153&itemId=22465491639&vendorItemId=89508563974" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8011435301&traceid=V0-153&itemId=22351938448&vendorItemId=89397040342" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9c3c/f088442eea251a9a16644a1fb8e773a00dd3aa76137f80638cecc21157ea.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        8. 올리비아로렌 스트링 포인트 파스텔톤 점퍼 VVBCLXM3451
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">37,520원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8011435301&traceid=V0-153&itemId=22351938448&vendorItemId=89397040342" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6590290892&traceid=V0-153&itemId=14868632921&vendorItemId=83315940462" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/bca4/3a759db15aad0e4fa55e74292fc6affafe417bf46ccab7f7a30da80828b5.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        9. 올리브레이디 BR804 인견 쿨메쉬 몰드 스포츠브라/탑
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">11,000원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6590290892&traceid=V0-153&itemId=14868632921&vendorItemId=83315940462" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7983899013&traceid=V0-153&itemId=22167593039&vendorItemId=89214051120" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/89ec/5a3e629245913c69695ae125213fa2e72dff0288eef9fea48bfe632d35ee.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        10. [행복한백화점][올리비아로렌]여성케주얼 망사티셔츠 VOCAL3M3321
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">44,100원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7983899013&traceid=V0-153&itemId=22167593039&vendorItemId=89214051120" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "블라우스 추천 TOP10 - [50대][여성] 부루앤쥬디 이중 카라 진주 블라우스 OQEBL502B"
+title: "전기자전거 추천 TOP10 - [30대][남녀] cheekdol 전기자전거 PAS 배달 자전거 전동 48V 20AH"
 author: smartmall89
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**블라우스**](https://link.coupang.com/a/bniCbs)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**전기자전거**](https://link.coupang.com/a/bniCbs)들을 추천해드리고 있습니다.
 
 <style>
     /* 기본 스타일 */
@@ -60,19 +60,19 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8024997434&traceid=V0-153&itemId=22427280311&vendorItemId=89471963153" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8113262257&traceid=V0-153&itemId=22992446028&vendorItemId=89981441801" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/04/11/18/5/7f9512d3-3f09-420a-9044-d193fc711d15.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/361d/3f256774ce26cf9393f06e060dde2ef9ec107b5afe262ea281e998beb242.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1. 부루앤쥬디 이중 카라 진주 블라우스 OQEBL502B
+                        1. cheekdol 전기자전거 PAS 배달 자전거 전동 48V 20AH
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">69%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">19,420원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">582,600원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
@@ -80,7 +80,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 2개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8024997434&traceid=V0-153&itemId=22427280311&vendorItemId=89471963153" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8113262257&traceid=V0-153&itemId=22992446028&vendorItemId=89981441801" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -89,27 +89,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8099307627&traceid=V0-153&itemId=22902531294&vendorItemId=90084192377" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6713302254&traceid=V0-153&itemId=15592961005&vendorItemId=82811822450" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c6ed/1e7bcec5d16774ef71a3527218458fce9cf812bc811da7f32944027364ee.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/4527512642812853-9722fbe4-91c2-4bda-824e-fc46727c9b61.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2. POMTOR 여성 오피스룩 라운드 반팔 셔츠 링클프리 블라우스
+                        2. 모토벨로 TX7 DUAL 350W 36V 5.2Ah 전기자전거, 스틸, 블랙
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">52%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">29,850원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">556,140원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 4.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 199개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8099307627&traceid=V0-153&itemId=22902531294&vendorItemId=90084192377" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6713302254&traceid=V0-153&itemId=15592961005&vendorItemId=82811822450" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -118,27 +118,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8054835955&traceid=V0-153&itemId=22603368536&vendorItemId=89645184247" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6959448791&traceid=V0-153&itemId=16937431641&vendorItemId=84115039419" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/623b/9b5c88b476178bd86856fd12a5ad6fb4c60bccc3e82fcd71ab3e02459009.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/ozvyoxme/58fb1871ea304f4fbafd9bf1eb51b390.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3. ANYOU 여성 여름 링클 반팔 블라우스 러블리 어깨퍼프 셔츠
+                        3. 모토벨로 TX8 프로3 DUAL 500W 48V 15Ah 전기자전거, 알루미늄, 블랙
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">23,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">1,498,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                        <span style="color: #4169E1;">★</span> 별점: 4.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 3개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 55개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8054835955&traceid=V0-153&itemId=22603368536&vendorItemId=89645184247" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=6959448791&traceid=V0-153&itemId=16937431641&vendorItemId=84115039419" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -147,27 +147,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8096934499&traceid=V0-153&itemId=22893195594&vendorItemId=90084721656" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7182971479&traceid=V0-153&itemId=18119737297&vendorItemId=86034997723" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/30d4/38a6411ea34886d85c4032ebd6e4bf87d0715969d45d54d7c7e87c826726.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9d81/708a01c1264554a15f4d9fd4e675af9f094f380859d63a33979e1070ee9b.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4. POMTOR 여성 여름 반팔 셔츠 라운드 플라워 블라우스
+                        4. 전동 스쿠터 전기 자전거 팻바이크 성인용 출퇴근 미니벨로, 블랙, 120km
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,750원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">643,900원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 0개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 189개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8096934499&traceid=V0-153&itemId=22893195594&vendorItemId=90084721656" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7182971479&traceid=V0-153&itemId=18119737297&vendorItemId=86034997723" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -176,27 +176,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8057519162&traceid=V0-153&itemId=22620516010&vendorItemId=89662065036" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7992370665&traceid=V0-153&itemId=22217776873&vendorItemId=89937205282" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/56cf/10ba371508c17296acd3ea27d61602778803bf305381b20938bc2aeb1a86.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a57a/ddf22e7ac47181ff403380f5e6194a86e47ab39caf99d413c6bf37d95d8c.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5. 네츄럴 원포켓 루즈핏 블라우스 셔츠
+                        5. 유니로스 전기자전거 전동 접이식 고출력 14인치 48v 출퇴근 배달 휴대용 배터리, 화이트, 30Ah_120~125KM
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">69%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">15,890원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">887,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 60개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8057519162&traceid=V0-153&itemId=22620516010&vendorItemId=89662065036" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7992370665&traceid=V0-153&itemId=22217776873&vendorItemId=89937205282" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -205,27 +205,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7905276409&traceid=V0-153&itemId=21676763826&vendorItemId=88727168017" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7847466106&traceid=V0-153&itemId=22418765066&vendorItemId=89463521965" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/qcvvilgc/91767037f33c49cfac10b04639c68a67.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/60d6/08e970f868657bbc9e8e2943b4d0353bdce45fe4eade11fdf8fc255a7882.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6. 젬블링 여성용 히든 버튼 5부 오픈 브이넥 반팔 블라우스
+                        6. GOBC 팻바이크 펫바이크 산악 자전거 와이드 광폭타이어 MTB자전거 엠티비 바퀴큰, 26인치, 7단, A타입 블랙
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">47%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">24,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">273,600원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 23개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 9개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7905276409&traceid=V0-153&itemId=21676763826&vendorItemId=88727168017" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7847466106&traceid=V0-153&itemId=22418765066&vendorItemId=89463521965" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -234,48 +234,19 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8088098089&traceid=V0-153&itemId=22832155489&vendorItemId=89866902918" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8003139623&traceid=V0-153&itemId=22296352045&vendorItemId=89341850429" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5873/705c4e7dacc2d7e4a10b094f0acc3ccc2b038b73aa216372eb600a22bc36.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/04/02/16/8/08752149-fcea-4ebc-be9d-51cdd1fd1958.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7. POMTOR 여성용 루즈핏 나시 블라우스 민소매 반팔티 셔츠
+                        7. 모토벨로 PAS 자토바이 전기자전거 500W 48V 20Ah FX20 고객직접설치, 알루미늄, 블랙
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,990원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 5.0
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 20개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8088098089&traceid=V0-153&itemId=22832155489&vendorItemId=89866902918" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8065799822&traceid=V0-153&itemId=22683475256&vendorItemId=89719446802" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c14e/42eb468b31f680f480ac318c9f19cdb5d0615321a58a924c4b07bf979d7e.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8. ANYOU 여성 블라우스 잔꽃무늬 퍼프소매 블라우스
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">1,780,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 
@@ -283,7 +254,7 @@ pin: true
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 리뷰수: 0개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8065799822&traceid=V0-153&itemId=22683475256&vendorItemId=89719446802" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8003139623&traceid=V0-153&itemId=22296352045&vendorItemId=89341850429" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -292,27 +263,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7674632520&traceid=V0-153&itemId=20482757414&vendorItemId=87606919919" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7924161655&traceid=V0-153&itemId=21779144072&vendorItemId=88827909188" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a194/7ee9897437fcb1a19836c6bf3dfbd9dfd88511a1ca44e6a49524d1f92246.png" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/32d8/875cd807d4eb3450ec12705125868eb02446e0a2f8c59c5a30e53e1b5e26.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9. 플루터 여성 구김없는 셔츠 링클프리 14가지 컬러
+                        8. 타이탄750 팻바이크 전기자전거 48V 13AH 500와트 분리형 배터리 접이식자전거, 그레이
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">23,320원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">1,049,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1354개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 18개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7674632520&traceid=V0-153&itemId=20482757414&vendorItemId=87606919919" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7924161655&traceid=V0-153&itemId=21779144072&vendorItemId=88827909188" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -321,27 +292,56 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7972162280&traceid=V0-153&itemId=22086032043&vendorItemId=89133229964" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8113522342&traceid=V0-153&itemId=22993428598&vendorItemId=90027411942" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a655/52e8cbb7c9181200d70c4578bb2d9205119a07da3dbabf6b01701c6722a5.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a3c7/9d95d384517b01fbefb96c8a83b4fc5f35eed2325341b034d19bbc787b1f.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10. 여자 여름 루즈핏 편안한 블라우스 Women's Blouse
+                        9. 루비앙 안전한 출퇴근 전기 전동 자전거 스쿠터 오토바이 이륜차 2인승 출퇴근 배달 통근 자토바이 모토벨로 미니벨로 바이크 세발전기자전거, 1. 기본형, 4. 핑크
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">19,800원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">399,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 8개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 9개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7972162280&traceid=V0-153&itemId=22086032043&vendorItemId=89133229964" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=8113522342&traceid=V0-153&itemId=22993428598&vendorItemId=90027411942" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7956593125&traceid=V0-153&itemId=21984019221&vendorItemId=86264291572" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2023/06/13/16/7/d4cb5b49-6945-474f-84c7-31315ed8cfc1.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        10. 에이유테크 스카닉 AMI 500W PAS 스로틀 고출력 출퇴근 배달용 접이식 전기자전거 36V 7.5Ah, 스틸, 블랙
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">806,550원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 38개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7956593125&traceid=V0-153&itemId=21984019221&vendorItemId=86264291572" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
